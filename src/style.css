@@ -1,0 +1,22 @@
+body{
+    background-image: url('assets/image/si.gif') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    color: white;
+}
+
+button{
+    color: grey;
+}
+
+h1{
+    color: aquamarine;
+    font-size: 10px;
+}
+p{
+    background-color: crimson;
+    font-size: 5px;
+    margin: 5px;
+}
